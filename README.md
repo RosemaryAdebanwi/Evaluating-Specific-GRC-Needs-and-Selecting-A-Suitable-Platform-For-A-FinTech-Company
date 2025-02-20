@@ -13,7 +13,7 @@ At a FinTech company, I led the evaluation of a GRC platform to ensure complianc
 
 <h2>Recommended GRC Platforms:</h2>
 
-[![MetricStream](https://img.shields.io/badge/-MetricStream-00558C?&style=for-the-badge&logo=MetricStream&logoColor=white)](https://www.metricstream.com/)  [![RSA Archer](https://img.shields.io/badge/-RSA_Archer-D2B48C?&style=for-the-badge&logo=RSA&logoColor=black)](https://www.archerirm.com/)  [![SAP GRC](https://img.shields.io/badge/-SAP_GRC-50C878?&style=for-the-badge&logo=SAP&logoColor=white)](https://www.sap.com/products/technology-platform/grc.html)
+[![MetricStream](https://img.shields.io/badge/-MetricStream-00558C?&style=for-the-badge&logo=MetricStream&logoColor=white)](https://www.metricstream.com/)  [![RSA Archer](https://img.shields.io/badge/-RSA_Archer-D2B48C?&style=for-the-badge&logo=RSA&logoColor=black)](https://www.archerirm.com/)  [![SAP GRC](https://img.shields.io/badge/-SAP_GRC-50C878?&style=for-the-badge&logo=SAP&logoColor=white)](https://www.sap.com/products/financial-management/grc.html?utm_)
 
 
 
